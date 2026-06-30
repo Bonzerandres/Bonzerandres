@@ -70,12 +70,4 @@ Built a security-focused visitor and building-access platform with identity vali
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </p>
 
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=bonzerandres&icon=0&color=blue" alt="Profile Views" />
-  </a>
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
