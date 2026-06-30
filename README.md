@@ -1,10 +1,8 @@
 # Hi, I'm Andres Del Orbe 👋
 
-I'm a Solutions Architect/Data Engineer focused on practical data platforms, automated pipelines, and cloud systems that solve real business problems.
+I'm a Solutions Architect/Data Engineer focused on data platforms, automated pipelines, CI/CD workflows, and cloud infrastructure.
 
-My work sits between **data engineering, analytics engineering, cloud infrastructure, and FinOps**. I care about choosing the right tool for the workload, whether that means Snowflake, Databricks, dbt, DuckDB, MotherDuck, Postgres, S3, or a simpler serverless architecture.
-
-I like building systems that are **clean, maintainable, cost-aware, and easy to explain**.
+My work sits between **data engineering, analytics engineering, cloud infrastructure, FinOps, and DevOps delivery**. I focus on turning data work into reliable pipelines with automated testing, version control, deployment workflows, and cost visibility built in.
 
 ---
 
@@ -67,7 +65,7 @@ Built a security-focused visitor and building-access platform with identity vali
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=css%2Chtml" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=css%2Chtml%2Cjavascript" alt="Most Used Languages" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
