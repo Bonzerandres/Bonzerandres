@@ -56,16 +56,32 @@ Built a security-focused visitor and building-access platform with identity vali
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=bonzerandres&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bonzerandres&theme=cobalt&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bonzerandres&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=bonzerandres&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=bonzerandres&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=bonzerandres&icon=0&color=0" alt="Profile Views" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
