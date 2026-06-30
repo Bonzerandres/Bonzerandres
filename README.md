@@ -70,17 +70,11 @@ Built a security-focused visitor and building-access platform with identity vali
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </p>
 
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bonzerandres&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=bonzerandres&icon=0&color=0" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=bonzerandres&icon=0&color=blue" alt="Profile Views" />
   </a>
 </p>
 
