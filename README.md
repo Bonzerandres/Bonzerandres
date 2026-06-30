@@ -58,20 +58,14 @@ Built a security-focused visitor and building-access platform with identity vali
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Bonzerandres&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Bonzerandres&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bonzerandres&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=bonzerandres&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bonzerandres&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=bonzerandres&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Bonzerandres&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## How I Think About Engineering
-
-I do not believe every problem needs the most complex architecture available. I believe in understanding the workload first, then choosing the right tool.
-
-For smaller analytical workloads, I might use DuckDB or MotherDuck because they are fast, simple, and cost effective. For larger enterprise workloads, I understand why tools like Snowflake, Databricks, BigQuery, and distributed systems become necessary.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
