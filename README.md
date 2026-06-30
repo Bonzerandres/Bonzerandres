@@ -67,7 +67,7 @@ Built a security-focused visitor and building-access platform with identity vali
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bonzerandres&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=typescript%2Cjavascript%2Cplpgsql" alt="Most Used Languages" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
